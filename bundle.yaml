@@ -1,4 +1,4 @@
-series: xenial
+series: bionic
 services:
   mysql:
     charm: cs:xenial/mysql-58
